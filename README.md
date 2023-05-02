@@ -5,7 +5,7 @@ Maze Runner is a multiplayer synchronized game made in C using the Ncurses libra
 The objective of the game is to collect as many coins as possible within a labyrinth. However, players must watch out for beasts that hunt them down and can kill them if they catch the player up. When a player is killed, their coins fall to the ground. To collect coins, players must navigate through the labyrinth, avoid beasts, and bring the collected coins to a designated base.
 
 **You must have at least 4 consoles open, because the 4th is the one which receives messages and it needs to be open since the start of the server.
-You can check the index of console by using  ***tty*** in the linux console.**
+You can check the index of console by using  ***tty*** on the linux system.**
 
 # Compile: 
 
